@@ -1,2 +1,2 @@
 # Advertisement
-Insert advertisement after 3 rows and support options of favourite with offline caching feature
+Insert advertisement after 2 rows and support options of favourite with offline caching feature
